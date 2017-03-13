@@ -83,7 +83,7 @@ public class WiFiDirectActivity extends Activity implements ChannelListener, Dev
         }
         else{
             Log.d(TAG,"open cv loaded");
-            Log.d(TAG,"aekjgob");
+
         }
       /*  AdView mAdView = (AdView) findViewById(R.id.adView);
         AdRequest adRequest = new AdRequest.Builder().build();
